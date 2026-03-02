@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1292.816 439.551">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: SFProDisplay-Semibold, 'SF Pro Display';
+        font-size: 50px;
+        font-weight: 600;
+      }
+
+      .cls-1, .cls-7 {
+        fill: #6741d9;
+      }
+
+      .cls-8, .cls-6 {
+        fill: #40c056;
+      }
+
+      .cls-9, .cls-3 {
+        fill: #e03131;
+      }
+
+      .cls-10 {
+        stroke: #40c056;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-15, .cls-16 {
+        fill: none;
+      }
+
+      .cls-17 {
+        fill: #a6d8ff;
+      }
+
+      .cls-18, .cls-4 {
+        fill: #fab006;
+      }
+
+      .cls-19, .cls-2 {
+        fill: #fd7e16;
+      }
+
+      .cls-20 {
+        fill: #f08d08;
+      }
+
+      .cls-11 {
+        stroke: #3a89d0;
+      }
+
+      .cls-12 {
+        stroke: #fab006;
+      }
+
+      .cls-13 {
+        stroke: #6741d9;
+      }
+
+      .cls-14 {
+        fill: #ffc9c9;
+      }
+
+      .cls-14, .cls-15 {
+        stroke: #e03131;
+      }
+
+      .cls-5, .cls-21 {
+        fill: #3a89d0;
+      }
+
+      .cls-22 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.019em;
+      }
+
+      .cls-16 {
+        stroke: #fd7e16;
+      }
+
+      .cls-24 {
+        fill: #feec99;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-17" x="117.85" y="112.149" width="859" height="171.741"/>
+    <path class="cls-21" d="M974.35,114.649v166.74H120.35V114.649h854M979.35,109.649H115.35v176.74h864V109.649h0Z"/>
+  </g>
+  <rect class="cls-14" x="191.798" y="60.615" width="894.46" height="49.035"/>
+  <rect class="cls-14" x="191.798" y="286.392" width="894.46" height="49.035"/>
+  <g>
+    <rect class="cls-24" x="65.41" y="63.115" width="47.44" height="269.812"/>
+    <path class="cls-20" d="M110.35,65.615v264.812h-42.44V65.615h42.44M115.35,60.615h-52.44v274.812h52.44V60.615h0Z"/>
+  </g>
+  <line class="cls-10" x1="979.352" y1="6.144" x2="979.352" y2="49.615"/>
+  <line class="cls-10" x1="1086.258" y1="6.144" x2="1086.258" y2="49.615"/>
+  <polyline class="cls-15" points="115.35 60.615 153.574 85.132 191.798 60.615"/>
+  <polyline class="cls-15" points="115.354 335.427 62.91 335.427 62.91 60.615 115.35 60.615"/>
+  <polyline class="cls-15" points="191.798 335.427 153.576 310.909 115.354 335.427"/>
+  <g>
+    <line class="cls-12" x1="40.632" y1="75.539" x2="40.632" y2="320.502"/>
+    <polygon class="cls-18" points="31.374 82.561 40.632 78.627 49.89 82.561 40.632 60.615 31.374 82.561"/>
+    <polygon class="cls-18" points="31.374 313.481 40.632 317.414 49.89 313.481 40.632 335.427 31.374 313.481"/>
+  </g>
+  <g>
+    <line class="cls-10" x1="997.828" y1="27.879" x2="1067.783" y2="27.879"/>
+    <polygon class="cls-8" points="1004.849 37.137 1000.916 27.879 1004.849 18.622 982.904 27.879 1004.849 37.137"/>
+    <polygon class="cls-8" points="1060.761 37.137 1064.694 27.879 1060.761 18.622 1082.707 27.879 1060.761 37.137"/>
+  </g>
+  <g>
+    <line class="cls-16" x1="176.874" y1="360.799" x2="77.834" y2="360.799"/>
+    <polygon class="cls-19" points="169.853 351.541 173.786 360.799 169.853 370.057 191.798 360.799 169.853 351.541"/>
+    <polygon class="cls-19" points="84.856 351.541 80.922 360.799 84.856 370.057 62.91 360.799 84.856 351.541"/>
+  </g>
+  <g>
+    <line class="cls-13" x1="1055.185" y1="129.407" x2="1055.186" y2="267.213"/>
+    <polygon class="cls-7" points="1045.927 136.428 1055.185 132.495 1064.443 136.428 1055.185 114.483 1045.927 136.428"/>
+    <polygon class="cls-7" points="1045.928 260.191 1055.186 264.124 1064.444 260.191 1055.186 282.137 1045.928 260.191"/>
+  </g>
+  <g>
+    <line class="cls-11" x1="136.578" y1="198.021" x2="958.699" y2="198.021"/>
+    <polygon class="cls-21" points="143.599 207.279 139.666 198.021 143.599 188.763 121.654 198.021 143.599 207.279"/>
+    <polygon class="cls-21" points="951.677 207.279 955.611 198.021 951.677 188.763 973.623 198.021 951.677 207.279"/>
+  </g>
+  <g>
+    <line class="cls-15" x1="206.723" y1="360.799" x2="1067.888" y2="360.799"/>
+    <polygon class="cls-9" points="213.744 370.057 209.811 360.799 213.744 351.542 191.798 360.799 213.744 370.057"/>
+    <polygon class="cls-9" points="1060.866 370.057 1064.8 360.799 1060.866 351.541 1082.812 360.799 1060.866 370.057"/>
+  </g>
+  <text class="cls-4" transform="translate(0 211.62)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-2" transform="translate(115.354 405.86)"><tspan x="0" y="0">g</tspan></text>
+  <text class="cls-5" transform="translate(467.309 183.532)"><tspan x="0" y="0">block width</tspan></text>
+  <text class="cls-1" transform="translate(1079.339 191.204)"><tspan x="0" y="0">block</tspan><tspan x="0" y="60">thickness</tspan></text>
+  <text class="cls-6" transform="translate(673.17 42.615)"><tspan x="0" y="0">c</tspan><tspan class="cls-23" x="26.44" y="0">ov</tspan><tspan x="78.052" y="0">er ma</tspan><tspan class="cls-22" x="200.83" y="0">r</tspan><tspan x="217.041" y="0">gin</tspan></text>
+  <text class="cls-3" transform="translate(464.649 405.859)"><tspan x="0" y="0">boa</tspan><tspan class="cls-22" x="83.472" y="0">r</tspan><tspan x="99.683" y="0">d width</tspan></text>
+</svg>
